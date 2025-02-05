@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 
-export function LandingPageFooter() {
+export function CheckoutFooter() {
     return (
         <>
             <footer className="body-font flex h-20 w-full items-center justify-between gap-4 bg-avanti-blue p-4 text-white">
